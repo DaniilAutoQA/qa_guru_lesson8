@@ -5,5 +5,9 @@ public class Application {
         System.out.println(123);
         System.out.println("hellow");
         System.out.println("issues231");
+        System.out.println(66);
+        System.out.println("master");
+        System.out.println("master2");
+        System.out.println(Calculator.square(5,78));
     }
 }
